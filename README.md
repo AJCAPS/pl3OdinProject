@@ -12,3 +12,6 @@ For admins/employees:
   - Manage store inventory
   - track products
   - manage orders from customers
+
+Presentation and Demonstration:
+https://youtu.be/HPC5IyE4UAs
